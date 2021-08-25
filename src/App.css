@@ -1,0 +1,13 @@
+body{
+  margin-top: 15px;
+}
+.online {
+  color:  green;
+}
+.offline {
+  color: grey;
+}
+.busy {
+  color: red;
+}
+ 
